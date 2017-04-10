@@ -1,6 +1,6 @@
 {
   "name": "rarely",
-  "version": "0.0.1",
+  "version": "0.0.1-development",
   "description": "An Javascript Snipper for making Random things that you can control rarity",
   "main": "index.js",
   "scripts": {
